@@ -1,8 +1,10 @@
 ## What's up guys? Just for fun and something else...
 <img width="25%" align="right" alt="Github" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/26a48b1f-4716-4b8c-b58a-027f269c8c1f" />
 
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" />
 
-- 🔭 Magic-hacking tools developing
+
+- 🔭 Magic-hacking tools development
 - 🌱 I'm learning bash scripting
 - 👯 I’m looking to collaborate on those magic-tools
 - 🤔 I’m looking for help with create an IA...
